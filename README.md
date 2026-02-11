@@ -18,5 +18,4 @@ This project is part of Task-3 of my Data Analytics internship at CodTech IT Sol
 
 
 #OUTPUT
-<img width="1096" height="612" alt="Screenshot 2026-01-19 113241" src="https://github.com/user-attachments/assets/d9f64633-4d75-425d-a839-f04b9246df3e" />
-
+<img width="1212" height="698" alt="Image" src="https://github.com/user-attachments/assets/fd324b41-f040-418b-9b31-05496fb4e2d1" />
